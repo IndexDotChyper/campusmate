@@ -143,7 +143,6 @@ http://localhost:5173
 * **Debanjan**
 * **Ritik**
 * **Anirban**
-* **Samadrita**
 
 ---
 
